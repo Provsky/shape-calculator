@@ -1,7 +1,7 @@
 # Shape Calculator
 
 
-###To build the project, run
+### To build the project, run
 ```
 mvn clean install
 ```
@@ -11,7 +11,7 @@ mvn clean install
 java -jar shape-calculator-0.0.1-SNAPSHOT.jar
 ```
 
-##About requsets
+## About requsets
 ### For now we allow such shapes:
  > RECTANGLE, TRIANGLE, CIRCLE, SQUARE  
 
